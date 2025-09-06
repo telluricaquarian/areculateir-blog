@@ -92,7 +92,8 @@ export default async function HomePage({
               Areculateir℠ - Foresight into Reality Blog
             </h1>
             <p className="text-muted-foreground text-sm md:text-base lg:text-lg">
-              News, updates and insights from Areculateir℠.
+              News, Updatesa and insights from Areculateir℠.
+            </p>
           </div>
         </div>
         {allTags.length > 0 && (
