@@ -92,8 +92,7 @@ export default async function HomePage({
               Areculateir℠ - Foresight into Reality Blog
             </h1>
             <p className="text-muted-foreground text-sm md:text-base lg:text-lg">
-              Latest news and updates from Magic UI.
-            </p>
+              News, updates and insights from Areculateir℠.
           </div>
         </div>
         {allTags.length > 0 && (
